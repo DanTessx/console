@@ -1,0 +1,6 @@
+{
+  "name": "Cartridge & Console",
+  "description": "Curated marketplace for new and certified pre-owned video game consoles and physical games with live inventory synchronization and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
